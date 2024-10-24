@@ -1,7 +1,7 @@
 Checkpoint 0 Writeup
 ====================
 
-My name: [your name here]
+My name: 曾华正
 
 My SUNet ID: [your sunetid here]
 
@@ -12,22 +12,14 @@ I would like to credit/thank these classmates for their help: [list sunetids her
 This lab took me about [n] hours to do. I [did/did not] attend the lab session.
 
 My secret code from section 2.1 was: [code here]
+* 2.1 
+![alt text](1729322297592.png)
+* 2.3
+![alt text](1729323123709.png)
+![alt text](1729323133200.png)
 
-I was surprised by or edified to learn that: [describe]
+3.4
+![alt text](1729735699034.png)
 
-Describe ByteStream implementation. [Describe data structures and
-approach taken. Describe alternative designs considered or tested.
-Describe benefits and weaknesses of your design compared with
-alternatives -- perhaps in terms of simplicity/complexity, risk of
-bugs, asymptotic performance, empirical performance, required
-implementation time and difficulty, and other factors. Include any
-measurements if applicable.]
-
-- Optional: I had unexpected difficulty with: [describe]
-
-- Optional: I think you could make this lab better by: [describe]
-
-- Optional: I'm not sure about: [describe]
-
-- Optional: I contributed a new test case that catches a plausible bug
-  not otherwise caught: [provide Pull Request URL]
+4
+![alt text](1729735749895.png)
